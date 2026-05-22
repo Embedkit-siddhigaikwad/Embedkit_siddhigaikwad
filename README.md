@@ -120,6 +120,4 @@ Siddhi Gaikwad
 
 ---
 
-## Note
 
-This project is designed for learning embedded systems concepts and interview preparation.
